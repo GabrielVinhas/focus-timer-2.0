@@ -1,6 +1,6 @@
 # FOCUS TIME 2.0 DARK MODE
 
-<img height="300px" src="https://i.imgur.com/2O5uTk9.gif">
+<img height="300px" src="https://i.imgur.com/5mwdXEb.gif">
 
 Projeto original do Figma: https://www.figma.com/file/JkryuC7tDcxJx3DqHWoaHU/Stage-05---Dark-Mode-FocusTimer-(Copy)?node-id=0%3A1
 
