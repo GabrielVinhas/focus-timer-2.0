@@ -1,4 +1,4 @@
-# FOCUS TIME 2.0 DARK MODE
+# FOCUS TIMER 2.0 DARK MODE
 
 <img height="300px" src="https://i.imgur.com/5mwdXEb.gif">
 
